@@ -6,7 +6,7 @@ pip install psycopg2
 pip install numpy
 скачати проект, переконатися в тому, що до проекту додано файли Odata2019File.csv Odata2020File.csv
 запустити проект, ввівши команду docker-compose up -d в консоль, після цього запустивши файл main.py
-ввести команду docker-compose -f flywat.yaml up в консоль, перевірити результат міграції
+ввести команду docker-compose -f flyway.yaml up в консоль, перевірити результат міграції
 
 ЛЕГЕНДА ДО result.csv:
 
